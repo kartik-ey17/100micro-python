@@ -1,0 +1,6 @@
+name,category,amount
+  alice smith  , FOOD ,250.50
+BOB,transport,120
+Charlie,Shopping,not_a_number
+,Food,300
+Diana, UTILITIES ,450.75
